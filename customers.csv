@@ -1,0 +1,7 @@
+customer_id,customer_name,balance,membership_type
+201,Ali,10000,REGULAR
+202,Ayse,10000,PREMIUM
+203,Mehmet,100,REGULAR
+204,Zeynep,10000,PREMIUM
+205,Deniz,10000,REGULAR
+206,Ece,10000,PREMIUM

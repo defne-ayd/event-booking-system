@@ -1,0 +1,7 @@
+event_id,event_name,category,capacity,ticket_price
+101,Rock Festival,CONCERT,12,500
+102,Java Conference,CONFERENCE,8,300
+103,Basketball Final,SPORTS,10,400
+104,Jazz Night,CONCERT,5,200
+105,Tech Summit,CONFERENCE,20,250
+106,City Marathon,SPORTS,10,100
